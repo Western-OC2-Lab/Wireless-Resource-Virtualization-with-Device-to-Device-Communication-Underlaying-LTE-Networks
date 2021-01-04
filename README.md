@@ -1,7 +1,8 @@
 # Wireless-Resource-Virtualization-with-Device-to-Device-Communication-Underlaying-LTE-Networks
-Implementation of Wireless Resource Virtualization with Device-to-Device Communication Underlaying LTE Networks
+##Implementation of Wireless Resource Virtualization with Device-to-Device Communication Underlaying LTE Networks
 
-•	Description:
+**• Description:**
+
 Wireless resource virtualization is a potential solution for meeting the increasing demand for mobile data services. Virtualization allows for more efficient utilization of the spectrum, reduces capital expenditures and operating expenditures, and can support higher peak rates. Device-to-device (D2D) communication as an underlay to cellular networks is also a potential solution to satisfy the data demand. Due to the proximity of devices and thus the higher signal-to-interference and noise ratio, higher data rates can be achieved using D2D communication. This is beneficial in cases of multimedia sharing where data can be broadcast to several nearby users. However, the interference that D2D pairs introduce to cellular users should be below a target threshold so as not to reduce their performance. 
 
 In this work, the problem of wireless resource virtualization with D2D communication underlaying the LTE network is formulated. Since the problem is an integer non-linear programming (INLP) problem, it is divided into two smaller linear integer programs that are solved to optimality. Two lower complexity heuristic algorithms, each solving one of the subproblems are introduced. 
@@ -29,11 +30,13 @@ The simulation was developed using MATLAB using the following files:
 -	Results_aggregation_mu_value.m: Averages the results for the different iterations for one mu value.
 -	Results_plotting.m: Plots the results.
 
-•	Contact Information:
+**• Contact Information:**
+
 Please feel free to contact me if you have any question. I would be happy to help.
 Email: amoubaye@uwo.ca 
 
-•	Citation:
+**• Citation:**
+
 If you find these codes useful, please cite the following articles:
 a.	A. Moubayed, A. Shami and H. Lutfiyya, "Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network," in IEEE Transactions on Broadcasting, vol. 61, no. 4, pp. 734-740, Dec. 2015, doi: 10.1109/TBC.2015.2492458.
 b.	A. Moubayed, A. Shami and H. Lutfiyya, "Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-6, doi: 10.1109/GLOCOM.2016.7842159.
