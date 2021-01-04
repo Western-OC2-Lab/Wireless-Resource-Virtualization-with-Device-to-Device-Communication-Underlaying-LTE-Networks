@@ -43,8 +43,8 @@ a. A. Moubayed, A. Shami and H. Lutfiyya, "Wireless Resource Virtualization With
 
 b. A. Moubayed, A. Shami and H. Lutfiyya, "Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-6, doi: 10.1109/GLOCOM.2016.7842159.
 
-@ARTICLE{Moubayed_IEEE_TBC,
-  	
+
+  	@ARTICLE{Moubayed_IEEE_TBC,
 	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
 	
 	journal={IEEE Transactions on Broadcasting}, 
@@ -63,8 +63,8 @@ b. A. Moubayed, A. Shami and H. Lutfiyya, "Power-Aware Wireless Virtualized Reso
 
 and
 
-@INPROCEEDINGS{Moubayed_Globecom,
 
+	@INPROCEEDINGS{Moubayed_Globecom,
   	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
 
 	booktitle={2016 IEEE Global Communications Conference (GLOBECOM)}, 
