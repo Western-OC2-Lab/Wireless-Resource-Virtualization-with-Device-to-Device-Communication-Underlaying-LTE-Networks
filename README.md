@@ -8,11 +8,8 @@ In this work, the problem of wireless resource virtualization with D2D communica
 
 The objective of the INLP problem is to maximize the sum rate of the cellular and D2D users. Additionally, the optimization problem considers the following constraints:
 -	SINR threshold of both cellular and D2D users’ constraints.
-
 -	Resource Block sharing constraints
-
 -	Service Level Agreement (SLA) constraint 
-
 -	Sum rate of both cellular and D2D users’ constraints 
 
 The developed heuristic solution follows a greedy approach to solve the cellular users’ resource allocation sub-problem and the D2D users’ resource sharing sub-problem. Accordingly, the heuristic solution considers the same set of constraints.
@@ -31,4 +28,33 @@ The simulation was developed using MATLAB using the following files:
 -	Results_aggregation_iteration.m; Aggregates the achieved results in each iteration.
 -	Results_aggregation_mu_value.m: Averages the results for the different iterations for one mu value.
 -	Results_plotting.m: Plots the results.
+
+•	Contact Information:
+Please feel free to contact me if you have any question. I would be happy to help.
+Email: amoubaye@uwo.ca 
+
+•	Citation:
+If you find these codes useful, please cite the following articles:
+a.	A. Moubayed, A. Shami and H. Lutfiyya, "Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network," in IEEE Transactions on Broadcasting, vol. 61, no. 4, pp. 734-740, Dec. 2015, doi: 10.1109/TBC.2015.2492458.
+b.	A. Moubayed, A. Shami and H. Lutfiyya, "Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-6, doi: 10.1109/GLOCOM.2016.7842159.
+
+@ARTICLE{Moubayed_IEEE_TBC,
+  	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
+	  journal={IEEE Transactions on Broadcasting}, 
+  	title={Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network}, 
+  	year={2015},
+  	volume={61},
+  	number={4},
+  	pages={734-740},
+  	doi={10.1109/TBC.2015.2492458}}
+
+and
+
+@INPROCEEDINGS{Moubayed_Globecom,
+  	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
+  	booktitle={2016 IEEE Global Communications Conference (GLOBECOM)}, 
+    title={Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network}, 
+  	year={2016},
+	  pages={1-6},
+  	doi={10.1109/GLOCOM.2016.7842159}}
 
