@@ -69,7 +69,7 @@ and
 
 	booktitle={2016 IEEE Global Communications Conference (GLOBECOM)}, 
     
-    	title={Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network}, 
+    title={Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network}, 
   	
 	year={2016},
 	
