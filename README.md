@@ -38,26 +38,42 @@ Email: amoubaye@uwo.ca
 **• Citation:**
 
 If you find these codes useful, please cite the following articles:
-a.	A. Moubayed, A. Shami and H. Lutfiyya, "Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network," in IEEE Transactions on Broadcasting, vol. 61, no. 4, pp. 734-740, Dec. 2015, doi: 10.1109/TBC.2015.2492458.
-b.	A. Moubayed, A. Shami and H. Lutfiyya, "Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-6, doi: 10.1109/GLOCOM.2016.7842159.
+
+a. A. Moubayed, A. Shami and H. Lutfiyya, "Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network," in IEEE Transactions on Broadcasting, vol. 61, no. 4, pp. 734-740, Dec. 2015, doi: 10.1109/TBC.2015.2492458.
+
+b. A. Moubayed, A. Shami and H. Lutfiyya, "Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-6, doi: 10.1109/GLOCOM.2016.7842159.
 
 @ARTICLE{Moubayed_IEEE_TBC,
-  	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
-	  journal={IEEE Transactions on Broadcasting}, 
-  	title={Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network}, 
-  	year={2015},
-  	volume={61},
-  	number={4},
-  	pages={734-740},
-  	doi={10.1109/TBC.2015.2492458}}
+  	
+	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
+	
+	journal={IEEE Transactions on Broadcasting}, 
+  	
+	title={Wireless Resource Virtualization With Device-to-Device Communication Underlaying LTE Network}, 
+  	
+	year={2015},
+  	
+	volume={61},
+  	
+	number={4},
+  	
+	pages={734-740},
+  	
+	doi={10.1109/TBC.2015.2492458}}
 
 and
 
 @INPROCEEDINGS{Moubayed_Globecom,
+
   	author={A. {Moubayed} and A. {Shami} and H. {Lutfiyya}},
-  	booktitle={2016 IEEE Global Communications Conference (GLOBECOM)}, 
-    title={Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network}, 
-  	year={2016},
-	  pages={1-6},
-  	doi={10.1109/GLOCOM.2016.7842159}}
+
+	booktitle={2016 IEEE Global Communications Conference (GLOBECOM)}, 
+    
+    	title={Power-Aware Wireless Virtualized Resource Allocation with D2D Communication Underlaying LTE Network}, 
+  	
+	year={2016},
+	
+	pages={1-6},
+  	
+	doi={10.1109/GLOCOM.2016.7842159}}
 
