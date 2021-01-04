@@ -1,0 +1,14 @@
+The simulation was developed using MATLAB using the following files:
+-	main_file.m: Main file that calls the different files within the simulation.
+-	initialization.m: It creates all the matrices and vectors and sets up the simulation environment.
+-	channel_conditions.m: Generates the channel conditions using macroscopic and microscopic path loss components.   
+-	BIP_CU.m: Determines the bip problem solution for LTE cellular users.  
+-	BIP_D2D.m: Determines the bip problem solution for D2D users.
+-	bip1.m: Function that solves the bip problem.
+-	min_SNR_finder.m: Finds the minimum SNR for the corresponding modulation and coding scheme after the resource blocks are allocated.
+-	specteff_finder.m: Finds the effective spectrum SNR. 
+-	Heuristic_CU.m: Determines the heuristic solution using a greedy methodology for LTE cellular users.  
+-	Heuristic_D2D.m: Determines the heuristic solution using a greedy methodology for D2D users.
+-	Results_aggregation_iteration.m; Aggregates the achieved results in each iteration.
+-	Results_aggregation_mu_value.m: Averages the results for the different iterations for one mu value.
+-	Results_plotting.m: Plots the results.
